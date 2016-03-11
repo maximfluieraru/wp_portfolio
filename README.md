@@ -11,7 +11,7 @@ Max's wordpress portfolio
 
 <!-- A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
  -->
-This project was created to learn how to creat a portfolio unsing a CMS (WordPress)
+This project was created to learn how to create a portfolio unsing a CMS (WordPress)
 
 ## Installation
 
@@ -31,6 +31,7 @@ Describe and show how to run the tests with code examples. -->
 <!-- Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable
  -->
  Maxim Fluieraru
+
 ## License
 <!-- 
 A short snippet describing the license (MIT, Apache, etc.) -->
