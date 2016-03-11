@@ -11,7 +11,7 @@ Max's wordpress portfolio
 
 <!-- A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
  -->
-This project was created to learn how to create a portfolio unsing a CMS (WordPress)
+This project was created to learn how to create a portfolio using a CMS (WordPress)
 
 ## Installation
 
